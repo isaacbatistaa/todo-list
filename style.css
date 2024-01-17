@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    font: normal 18pt Arial;
+    text-align: center;
+}
+
+input {
+    border: none;
+    border-radius: 10%;
+    background-color: rgb(196, 196, 196);
+    font-size: 13pt;
+    margin: 5px;
+}
+
+input:hover {
+    transition: all 100ms ease-in-out;
+    font-size: 14pt;
+    background-color: rgb(192, 248, 255);
+}
